@@ -9,3 +9,4 @@ Sep 16| Jinning Guo||
 Sep 23| Yunshan Dai ||
 Sep 30| Haiyan Lin||
 Oct 7|Chieh Yeh||
+Oct 14|Shu Hu|Math|
