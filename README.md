@@ -12,7 +12,7 @@ Oct 7|Chieh Yeh| Econometrics|
 Oct 14|Shu Hu|Math|
 Oct 21|Haiyan Lin|    |
 Oct 28| Wending Liu| |
-Nov 04| Jinning Guo| |
+Nov 04| Zem Wang| |
 Nov 11| Yunshan Dai |  |
 Nov 18| Haiyan Lin| |
 Nov 25|Chieh Yeh| |
