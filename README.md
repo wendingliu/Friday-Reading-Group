@@ -10,10 +10,10 @@ Sep 23| Yunshan Dai | China's Economy |
 Sep 30| Haiyan Lin| Econometrics|
 Oct 7|Chieh Yeh| Econometrics|
 Oct 14|Shu Hu|Math|
-Oct 21|Haiyan Lin|    |
-Oct 28| Wending Liu| |
-Nov 04| Zem Wang| |
-Nov 11| Yunshan Dai |  |
+Oct 21|Haiyan Lin|   Economics |
+Oct 28| Wending Liu|History |
+Nov 04| Zem Wang|China's Economy |
+Nov 11| Yunshan Dai | History |
 Nov 18| Haiyan Lin| |
 Nov 25|Chieh Yeh| |
 Dec 02|Shu Hu| |
