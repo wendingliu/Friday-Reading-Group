@@ -14,6 +14,3 @@ Oct 21|Haiyan Lin|   Economics |
 Oct 28| Wending Liu|History |
 Nov 04| Zem Wang|China's Economy |
 Nov 11| Yunshan Dai | History |
-Nov 18| Haiyan Lin| |
-Nov 25|Chieh Yeh| |
-Dec 02|Shu Hu| |
